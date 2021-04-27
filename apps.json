@@ -1,0 +1,11 @@
+{
+  "environments": {
+    "test": {
+    "scripts":{
+        "test-setup": "",
+        "test": "python3 tictactoe_integration_tests.py && python3 tictactoe_unit_tests.py"
+    }
+
+    }
+  }
+}
